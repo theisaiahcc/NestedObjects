@@ -30,7 +30,7 @@ namespace NestedObjects
 		/// <summary>
 		/// Preferred phone number
 		/// </summary>
-		public string Phone { get; set; }
+		public string PhoneNumber { get; set; }
 		/// <summary>
 		/// Advisor assigned to student
 		/// </summary>
